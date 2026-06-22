@@ -1,4 +1,4 @@
-# ⚙️ How It Works: GitHub Contribution Graph Backdating
+# How It Works: GitHub Contribution Graph Backdating
 
 This document explains the mathematics, date calculations, and Git properties used to paint the name **"NAMAN"** on the 2019 GitHub Contribution Graph.
 
